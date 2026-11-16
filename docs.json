@@ -1196,6 +1196,10 @@
   },
   "redirects": [
     {
+      "source": "/api-reference/standards/rtvi/latest",
+      "destination": "/api-reference/standards/rtvi/2.3.0"
+    },
+    {
       "source": "/api-reference/server/expressive/behavioralsignals",
       "destination": "/api-reference/server/expressive/behavioral-signals"
     },
